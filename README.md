@@ -12,7 +12,7 @@ An admin dashboard allows at-a-glance access to the crucial information for the 
 - CRUD functionality or management.
 - Dark & Light Mode
 
-Live URL: https://react-admin-dashboard-virid.vercel.app
+Live URL: https://dashboard-seven-blush-28.vercel.app/
 
 ==============
 
